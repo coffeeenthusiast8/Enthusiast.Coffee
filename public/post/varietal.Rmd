@@ -30,7 +30,7 @@ Therefore, it’s important to recognize that what we currently know about coffe
 
 Rather than going all in on the biology textbook (Domain - Kingdom - Phylum ...), for this purpose, we are simply going to use 'dog' as a good reference.
 
-The dog or "Canis familiaris" is a one of the species under genus "Canis." Many species of animals are part of "Canis" such as coyotes ("Canis latrans") and jackals ("Canis aureus"). Even though all the dogs are part of the same species, they are further divided into breeds such as poodle, bulldog, husky, beagle, etc. For the purpose of simplification, breed is very similar to variety because it is used to further classify animals/plants under the same species.
+The dog is a one of the species under genus "Canis." Many species of animals are part of "Canis" such as coyotes, wolves, and jackals. Even though all the dogs are part of the same species, they are further divided into breeds such as poodle, bulldog, husky, beagle, etc. For the purpose of simplification, breed is very similar to variety because it is used to further classify animals/plants under the same species.
 
 ## Coffee Species
 
@@ -79,10 +79,20 @@ Catuai is particularly important as accounts for almost half of all Arabica prod
 
 ### F1 Hybrids
 
-F1 Hybrids stand for first generation hybrids. Remember about Pacamara varietal not being fully stable one generation to the next? F1 Hybrids are the same. F1 Hybrids crossbreeds Ethipian Landrace and other varietals to produce varietals with significantly higher yields. Sometimes, it will outperform in quality, disease, wind, and/or frost tolerance as well. Despite many difficulties of F1 Hybrids (For Ruiru 11, Catimor is manually pollinated. For H3 and Esperanza, they are reproduced via clonal propagation which is far more labor intensive), for some working with these varieties are worth the effort. (Of course, some very locally adjusted varietals may perform better than F1 Hybrids.)
+F1 Hybrids stand for first generation hybrids. Remember about Pacamara varietal not being fully stable one generation to the next? F1 Hybrids are the same. F1 Hybrids crossbreeds Ethipian Landrace and other varietals to produce varietals with significantly higher yields that can grow in low altitudes. Sometimes, it will outperform in quality, disease, wind, and/or frost tolerance. Despite many difficulties of F1 Hybrids, for some working with these varieties are worth the effort. The difficulties of F1 Hybrids may include requiring manual pollination (Ruiru 11, etc.) or clone propogation which is far more labor intensive compartive to planting coffee seeds (H3, Esparanza, etc.) It is also important to note that coffee quality, yield, disease resistance, etc. are dependent on many factors. For certain environment, farming technique, processing, etc. varietals that adjusted well to the local environment may perform better and F1 Hybrids shouldn't be treated like an upgrade.
+
+Currently, the commercial use of F1 Hybrids is limited. However, more research is being done and F1 Hybrids are viewed as one of the potential solutions to climate change and various diseases.
 
 
+### Catimor
 
+As mentioned above, Catimor group was bred using Caturra and Timor Hybrid. As Caturra is one of the most popular Arabican coffee varietal, it was natural that many researchers decided to improve it by crossbreeding. 
+
+Catimor 129, Costa Rica 95, IHCAFE 90, etc. are notable members of Catimor group. While Catimor group is known for its high yield and resistance to coffee leaf rust, to this date, it is not known to produce good cup quality. Catimor group is not heavily present in the specialty coffee industry. Despite this, Catimors are considered important, especially in commercial coffee industry, as they were 'created just in time for the arrival of leaf rust in the Americas' in the 1970s.
+
+### Sachimor
+
+Sachimor is crossbreed of Villa Sarchi and Timor Hybrid. Many stable varietals are commercially available such as Parainema and Marsellesa. They are important part of the coffee industry as they have good yield, capable of producing good quality cup, resistant to various diseases and pests, and grow well in low to medium altitude. Similar to Catimors, Sachimors were also 'created just in time for the arrival of leaf rust in the Americas' in the 1970s. Parainema is primarily grown in Honduras. Marsellesa is grown in various parts of the Americas.
 
 
 

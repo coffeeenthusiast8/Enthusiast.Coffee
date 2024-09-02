@@ -1,0 +1,75 @@
+---
+title: "Understanding Processing"
+date: "`r Sys.Date()`"
+---
+
+<center>
+
+# Processing
+
+<img src="/img/joel-friedrich-KQBVbtF68QE-unsplash.jpg">
+
+Image sourced from Unsplash [(Joel Friedrich)](https://unsplash.com/@equestianologist)
+
+</center>
+
+Coffee processing refers to the method of coffee fermentation. Processing can generally be classified into washed/wet, natural/dry, honey/hybrid/pulped-natural, and anaerobic methods.
+
+Note: There will be a lot of repetition of the word "general." The specifics of processing can vary by farmer, processing station, region, and country. For example, the washed process in Kenya may not be the same as the washed process in Colombia.
+
+## Washed Processing 
+
+Washed processing is the most common method of coffee processing. Although I cannot find a highly reliable source for this information, it seems that around 70% of coffee is processed using the washed method. This process involves depulping the cherry and removing most of the fruit, leaving only the seeds with mucilage. The seeds are then fermented under water for a short period, typically 1-2 days. Finally, the fermented seeds are dried and hulled, which removes the dried-out mucilage and parchment skin.
+
+Washed processing is considered a shorter and more controlled fermentation method. This process generally produces a cleaner taste, but with lower complexity. Jonathan Gagné's blog, "Coffee Ad Astra," features <a href="https://coffeeadastra.com/2019/07/23/how-coffee-varietals-and-processing-affect-taste-2/">wordclouds</a> that illustrate different processing methods.
+
+<center>
+
+<img src="/img/jgwashed.png">
+
+</center>
+
+## Natural Processing 
+
+Natural processing is the second most common method, accounting for roughly 20% of coffee production. This process involves simply drying the harvested coffee cherries, usually under sunlight. The drying process generally takes a long time, typically 1-2 months.
+
+Natural processing is considered lengthy and difficult to control, often relying on favorable climate conditions. It is far more common in very dry regions, such as parts of Africa (like Ethiopia). This method is known to produce a more complex taste, often with "berry" flavors like strawberry or raspberry. According to <a href="https://www.youtube.com/watch?v=bMOOQfeloH0">James Hoffmann's "The Great American Taste Test,"</a> people have strongly polarizing opinions on Natural processing. Specifically, males tend to prefer naturally processed coffee and females tend to dislike naturally processed coffee.
+
+<center>
+
+<img src="/img/jgnatural.png">
+
+</center>
+
+## Honey Processing 
+
+Honey processing is sometimes also referred to as hybrid or pulped natural processing. This method involves depulping the coffee cherries and removing some of the fruit, similar to the washed process. However, instead of fermenting the beans under water, they are fermented under sunlight. Because some of the fruit has been removed, the drying process is shorter compared to natural processing.
+
+Honey processing can be further divided into black honey, red honey, yellow honey, and white honey processing. Some farmers intentionally leave most of the fruit intact, removing only the skin. This requires a longer fermentation period and results in a darker color (black or red honey). Other farmers remove more of the fruit, leading to a shorter fermentation period, which usually results in a lighter color (white or yellow honey).
+
+<center>
+
+<img src="/img/jghoney.png">
+
+</center>
+
+
+## Anaerobic Processing 
+
+Anaerobic processing is relatively new to the coffee industry. This method simply means that coffee beans are exposed to little or no oxygen during the process. Some methods involve fermenting the beans with different fruits, like strawberries or grapes. Others use yeast or bacterial cultures for fermentation. Examples of anaerobic fermentation include carbonic maceration, nitrogen maceration, double thermal shock, yeast fermentation, koji fermentation, and fruit fermentation. These coffee beans can have "exotic" flavors and may provide a very strong aromatic experience.
+  
+## Decaf Processing
+
+  Decaf processing is usually done after the fermentation step. The most well-known decaf methods in the specialty coffee industry include the ethyl acetate process (sometimes called the sugar cane process), the water process, and the carbon dioxide process. Some people believe that decaf coffee undergoes a dangerous process involving harsh chemicals, but these concerns appear to be unfounded. Yes, even the <a href="https://www.ncausa.org/about-coffee/decaf/Reject-decaf-ban">methylene chloride method</a> which recently gained <a href="https://www.webmd.com/diet/news/20240509/officials-consider-requests-to-ban-or-label-some-decaf-coffee">controversy</a>.
+  
+  There are several problems with decaf coffee in my opinion. One issue is that the process is expensive and several coffee shops can't afford to use good quality decaf. Another is that decaf process not only removes caffeine but also impacts coffee's taste and damages the coffee beans. Decaf coffee, typically is harder to store and harder to brew.
+  https://www.youtube.com/watch?v=yYTSdlOdkn0
+  
+## Some Materials
+
+https://perfectdailygrind.com/2016/07/washed-natural-honey-coffee-processing-101/ <BR>
+https://www.tastify.com/article/coffee-processing-101-natural-washed-and-hybrid<BR>
+https://www.coffeereview.com/coffee-reference/from-crop-to-cup/processing/fruit-removal-and-drying/<BR>
+https://www.thespecialtycoffeebeans.com/what-is-honey-processed-coffee/
+https://fostercoffee.co/blogs/news/comparing-ethyl-acetate-and-mountain-water-process-decaffeination-for-coffee-beans-pros-cons-and-differences
+https://www.youtube.com/watch?v=yYTSdlOdkn0
