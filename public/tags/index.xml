@@ -8,8 +8,44 @@
     <language>en</language>
     <managingEditor>youremail@domain.com (E. C.)</managingEditor>
     <webMaster>youremail@domain.com (E. C.)</webMaster>
+<<<<<<< HEAD
+    <lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics</title>
+      <link>http://localhost:4321/tags/basics/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><author>youremail@domain.com (E. C.)</author>
+      <guid>http://localhost:4321/tags/basics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Processing</title>
+      <link>http://localhost:4321/tags/processing/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><author>youremail@domain.com (E. C.)</author>
+      <guid>http://localhost:4321/tags/processing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roast</title>
+      <link>http://localhost:4321/tags/roast/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><author>youremail@domain.com (E. C.)</author>
+      <guid>http://localhost:4321/tags/roast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Varietal</title>
+      <link>http://localhost:4321/tags/varietal/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><author>youremail@domain.com (E. C.)</author>
+      <guid>http://localhost:4321/tags/varietal/</guid>
+      <description></description>
+    </item>
+=======
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
+=======
+>>>>>>> main
+>>>>>>> Test
     <item>
       <title>Example</title>
       <link>http://localhost:4321/tags/example/</link>

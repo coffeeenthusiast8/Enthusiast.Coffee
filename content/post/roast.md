@@ -1,6 +1,9 @@
 ---
 title: "Understanding Roast Level"
-date: "2024-09-01"
+date: "2024-09-02"
+tags:
+- roast
+- basics
 ---
 
 <center>

@@ -1,6 +1,9 @@
 ---
 title: "Understanding Species and Varietals"
 date: "`r Sys.Date()`"
+tags: 
+- varietal
+- basics
 ---
 
 # Coffee Species And Varietals
@@ -79,7 +82,7 @@ Catuai is particularly important as accounts for almost half of all Arabica prod
 
 ### F1 Hybrids
 
-F1 Hybrids stand for first generation hybrids. Remember about Pacamara varietal not being fully stable one generation to the next? F1 Hybrids are the same. F1 Hybrids crossbreeds Ethipian Landrace and other varietals to produce varietals with significantly higher yields that can grow in low altitudes. Sometimes, it will outperform in quality, disease, wind, and/or frost tolerance. Despite many difficulties of F1 Hybrids, for some working with these varieties are worth the effort. The difficulties of F1 Hybrids may include requiring manual pollination (Ruiru 11, etc.) or clone propogation which is far more labor intensive compartive to planting coffee seeds (H3, Esparanza, etc.) It is also important to note that coffee quality, yield, disease resistance, etc. are dependent on many factors. For certain environment, farming technique, processing, etc. varietals that adjusted well to the local environment may perform better and F1 Hybrids shouldn't be treated like an upgrade.
+F1 Hybrids stand for first generation hybrids. Remember about Pacamara varietal not being fully stable one generation to the next? F1 Hybrids are the same. F1 Hybrids crossbreeds Ethipian Landrace and other varietals to produce varietals with significantly higher yields that can grow in low altitudes. Sometimes, it will outperform in quality, disease, wind, and/or frost tolerance. Despite many difficulties of F1 Hybrids, for some working with these varieties are worth the effort. The difficulties of F1 Hybrids may include requiring manual pollination (Ruiru 11, etc.) or clone propagation which is far more labor intensive comparative to planting coffee seeds (H3, Esparanza, etc.) It is also important to note that coffee quality, yield, disease resistance, etc. are dependent on many factors. For certain environment, farming technique, processing, etc. varietals that adjusted well to the local environment may perform better and F1 Hybrids shouldn't be treated like an upgrade.
 
 Currently, the commercial use of F1 Hybrids is limited. However, more research is being done and F1 Hybrids are viewed as one of the potential solutions to climate change and various diseases.
 
@@ -88,7 +91,9 @@ Currently, the commercial use of F1 Hybrids is limited. However, more research i
 
 As mentioned above, Catimor group was bred using Caturra and Timor Hybrid. As Caturra is one of the most popular Arabican coffee varietal, it was natural that many researchers decided to improve it by crossbreeding. 
 
-Catimor 129, Costa Rica 95, IHCAFE 90, etc. are notable members of Catimor group. While Catimor group is known for its high yield and resistance to coffee leaf rust, to this date, it is not known to produce good cup quality. Catimor group is not heavily present in the specialty coffee industry. Despite this, Catimors are considered important, especially in commercial coffee industry, as they were 'created just in time for the arrival of leaf rust in the Americas' in the 1970s.
+Catimor 129, Costa Rica 95, IHCAFE 90, etc. are notable members of Catimor group. While Catimor group is known for its high yield and resistance to coffee leaf rust, to this date, it is generally known to produce bad quality coffee. Despite this, Catimors are considered important, especially in commercial coffee industry, as they were 'created just in time for the arrival of leaf rust in the Americas' in the 1970s.
+
+Catimor group is not heavily present in the specialty coffee industry, or at least currently. Catimor groups are mostly grown in South East Asia and some parts of the Americas. Unless specified as single varietal coffee, it is pretty safe to assume Vietnamese Arabica, Indonesia Mandheling, etc. have some mix of Catimors. However, some argue that Catimor shouldn't be treated as inferior coffee and ['when grown with love in this part of the world, processed with care and stored appropriately, Catimor on its own or when harvested together with other varieties is more than capable of reaching the mid to high 80s in cupping sessions.'](https://indochinacoffee.com/catimor-an-intriguing-variety/) Especially with ['processing revolution'](https://sca.coffee/sca-news/watch/video/paradigm-shift-the-post-harvest-processing-revolution#:~:text=The%20current%20coffee%20processing%20revolution,and%20value%2C%20back%20to%20producers.), it seems more and more varietals that were considered 'unfavorable' are shown in different light.
 
 ### Sachimor
 

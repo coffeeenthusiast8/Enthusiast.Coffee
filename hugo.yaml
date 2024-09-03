@@ -55,7 +55,7 @@ Params:
   rss: yes
   showRelatedPosts: yes
   socialShare: yes
-  subtitle: A blog for a coffee enthusiast
+  subtitle: A blog for a coffee enthusiast.
   useHLJS: yes
   wordCount: no
 menu:
@@ -67,19 +67,19 @@ menu:
       url: page/about/
       weight: 3
     - identifier: samples
-      name: Samples
+      name: Coffee Basic
       weight: 2
-    - name: Big Image Sample
+    - name: Understanding Roast
       parent: samples
-      url: post/2017-03-07-bigimg-sample
+      url: post/roast
       weight: 1
-    - name: Math Sample
+    - name: Understanding Processing
       parent: samples
-      url: post/2017-03-05-math-sample
+      url: post/process
       weight: 2
-    - name: Code Sample
+    - name: Understanding Species/Varietal
       parent: samples
-      url: post/2016-03-08-code-sample
+      url: post/varietal
       weight: 3
     - name: Tags
       url: tags
