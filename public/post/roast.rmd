@@ -1,6 +1,9 @@
 ---
 title: "Understanding Roast Level"
 date: "`r Sys.Date()`"
+tags:
+- roast
+- basics
 ---
 
 <center>
