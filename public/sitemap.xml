@@ -3,9 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:4321/</loc>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/basics/</loc>
@@ -34,25 +31,6 @@
   </url><url>
     <loc>http://localhost:4321/tags/varietal/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
-=======
->>>>>>> Test
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/process/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/roast/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/varietal/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-<<<<<<< HEAD
-=======
->>>>>>> main
->>>>>>> Test
   </url><url>
     <loc>http://localhost:4321/tags/example/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
@@ -63,18 +41,6 @@
     <loc>http://localhost:4321/post/2017-03-20-photoswipe-gallery-sample/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-=======
-<<<<<<< HEAD
-=======
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url><url>
->>>>>>> main
->>>>>>> Test
     <loc>http://localhost:4321/post/2017-03-07-bigimg-sample/</loc>
     <lastmod>2017-03-07T00:00:00+00:00</lastmod>
   </url><url>
