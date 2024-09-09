@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terroir on Enthusiast Coffee</title>
+    <link>http://localhost:4321/tags/terroir/</link>
+    <description>Recent content in Terroir on Enthusiast Coffee</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>coffeeenthusiast8@gmail.com</managingEditor>
+    <webMaster>coffeeenthusiast8@gmail.com</webMaster>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/terroir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Terroir</title>
+      <link>http://localhost:4321/post/terroir/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com</author>
+      <guid>http://localhost:4321/post/terroir/</guid>
+      <description>What does Terroir mean? It literally means dirt or earth in French. It represents the soil, climate, altitude, and the entire environment in which the coffee plant grows. Because coffee growing regions like Ethiopia, Colombia, Vietnam, etc. all have unique environments, coffee enthusiasts can &amp;rsquo;taste&amp;rsquo; the terroir by experiencing single origin coffee.&#xA;Ethiopia, for example, is known for floral aroma and complex fruit. Kenya is known for blackcurrant, bright acidity, and tomato like umami.</description>
+    </item>
+  </channel>
+</rss>

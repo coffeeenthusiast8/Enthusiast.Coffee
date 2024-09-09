@@ -1,0 +1,63 @@
+---
+title: "Understanding Terroir"
+date: "`r Sys.Date()`"
+tags: 
+- terroir
+- basics
+---
+
+# What does Terroir mean?
+
+It literally means dirt or earth in French. It represents the soil, climate, altitude, and the entire environment in which the coffee plant grows. Because coffee growing regions like Ethiopia, Colombia, Vietnam, etc. all have unique environments, coffee enthusiasts can 'taste' the terroir by experiencing single origin coffee. 
+
+Ethiopia, for example, is known for floral aroma and complex fruit. Kenya is known for blackcurrant, bright acidity, and tomato like umami. Vietnam is known for earthy Robusta and Brazil is one of the most common choice of dark roast blend for its nuttiness and chocolatiness.
+
+I could go on and list some more coffee origins and their supposed characteristics.
+
+The truth is that I am not sure if I believe in 'terroir' anymore.
+
+I would like to apologize as this article is filled with 'subjective' opinions and will be especially rambly. It is a very controversial subject and I (who has only been interested in coffee for past couple of years) feel some what inadequate to discuss. I pondered on just skipping the entire subject together or simply copying some generic descriptions of coffee origins. However, I didn't feel good about either of those methods. As I have stated above, I am still an amateur. While I will present some expert opinions for both and against the notion of terroir, (and some my personal opinions too) one shouldn't blindly trust this article. 
+
+It is important to define what terroir precisely means before discussing further. I have seen many definitions that include agricultural practices, processing methods, varietal choices, and culture behind coffee agriculture. Of course, by that definition, terroir has enormous impact on coffee flavors. 
+
+However, there are those who speak 'terroir' as some sort of mythological figure, or 'nature.' The taste of how unique environments, provided by nature, produces unique flavors that cannot be found anywhere in the world.
+
+# 'Terroir is a myth' argument
+
+### “I don’t mean terroir is a myth as in, a falsely held belief, but rather a myth as in a way of explaining an otherwise unexplainable phenomena.” - [Maggie Harrison](https://www.wineenthusiast.com/culture/wine/is-terroir-a-myth/), Revered Oregon Winemaker
+
+### "Myth ... is that terroir is a special property of a location something that is very special to that place" - [Lucia Solis](https://www.youtube.com/watch?v=G16gDvuQnVE), Coffee Processing Specialist
+
+I am not claiming that the environment is not at all important. However, it seems many coffee professionals/enthusiasts believe that environments of, for example, Ethiopia is so unique that it is not possible to have similar characteristics (if not nearly identical) in Colombia, Peru, or Thailand.
+
+However, from my personal experience, it was difficult, if not downright impossible to differentiate very well processed, Ethiopian Gesha and Panama Geisha. I wondered how much of the perceived differences from different origins may be due to differences in varieties, processing, and agricultural practices rather than uniqueness of the environment?
+
+# Arguments for Terroir
+
+Environment IS indeed important. If somebody decided to grow coffee in Denmark, it wouldn't turn out great like Ethiopian coffee. We really do not have to go that far, as the coffee grown within the same farm, but from different microlots may have distinct taste. If coffee grown less than few hundred meters away from each other can taste have distinct taste, how can some argue that terroir is a myth? Is that not a clear evidence that nature plays a significant role in coffee's flavor profile?
+
+Furthermore, there is a reason why many include processing methods as part of the terroir. Processing methods had to adapt to the local environment, because nature dictates what processing methods are viable for coffee farmers. Natural processing is particularly famous in Brazil and Ethiopia, because their low humidity climate allows farmers to use that processing method. Costa Rica, for example, had to start using Honey processing method rather than Washed processing to conserve water.
+
+Many argue that not terroir never lost its significance, just that non-traditional processing methods have 'destroyed origin characteristics' and threaten the specialty coffee scene. While processing methods that involve other fruits or yeasts may be far more consistent, many argue that these methods destroy coffee origin characteristics and ultimately make coffee 'not special' and generic. Some extremist even argue that any coffee should be processed using ONLY water and coffee. 
+
+# Processing Revolution and the Rise of 'Not Coffee'
+
+### "... Processing is not irrelevant but if processing isn't creating new experiences together with that varietal then it's not interesting. Personally I fell in love with coffee because I love going to different farms, different terroirs, different climates, different countries, and experiencing all of those different tastes. It's amazing that you can go to Costa Rica and try a Gesha at 1500m and they have certain attributes versus Gesha at 1600m in Panama and those 2 copies can taste absolutely different. We don't want to make that generic through processing..." - [Patrik Rolf, founder of April Coffee and competitor of World Brewers Cup and World Barista Cup](https://www.youtube.com/watch?v=Npif5_eL1gk)
+
+### "The coffee fruit shall be processed using pure water only." - [Cup of Excellence 2023 rule](https://perfectdailygrind.com/2023/11/cup-of-excellence-rule-changes/)
+
+['Green coffee identity'](https://community.coffeeknowledgehub.com/rich_text_oembeds/BAh7CEkiCGdpZAY6BkVUSSI5Z2lkOi8vanVtcHN0YXJ0LWFwcC9SaWNoVGV4dE9lbWJlZC81MzcwNjE_ZXhwaXJlc19pbgY7AFRJIgxwdXJwb3NlBjsAVEkiFHJpY2hfdGV4dF9maWVsZAY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--ee87b083b7c485e5c5480540c9ff971d0293714f) and the issue with ['the post-harvest processing revolution](https://www.youtube.com/watch?v=LUsAvwYFsKA) are ... definitely difficult questions. I highly recommend watching these 2 videos as I think they do a better job than I ever can. Just like Dr. Mario, I can't answer whether coffee with certain processing should be considered coffee or not.
+
+# Worry
+
+In my personal opinion, I think some coffee enthusiasts are worried that coffee from different origins will taste very similar due to advancement of processing, better access to different varietals, etc. They decided that the villain is the new funky processing methods and decided to label them as 'not coffee.'
+
+I think the effort is futile. Countries like Thailand, Taiwan, Kenya, etc. are now starting to grow Gesha varietal. Countries that were previously not really interested in 'specialty coffee' like Vietnam, are now pouring more effort into processing methods, coffee varietal research, etc. Soon, people who associated Vietnam with earthy flavor or low quality will be surprised. 
+
+Despite environment having heavy influence, clearly humans play very important roles in coffee agriculture. It is the humans that provide coffee plants with shades, fertilizer, etc. It is the humans that prunes the plants and pick the ripe coffee cherries.
+
+### “I have two children... They came to me fully formed, they are marked by their specific DNA. And yet, I still can screw them up in 10,000 different ways, and they will spend the rest of their lives in therapy talking about all of the things I did…” - [Maggie Harrison](https://www.wineenthusiast.com/culture/wine/is-terroir-a-myth/), Revered Oregon Winemaker
+
+# Conclusion
+
+Sadly, there is no satisfying conclusion to any of this. It is ultimately up to you to decide. Is there something special about terroir that differentiates coffee from Ethiopia and Colombia? What processing should be allowed and shouldn't be allowed? Is 'generification' of coffee a real concern?

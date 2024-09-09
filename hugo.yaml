@@ -11,37 +11,37 @@ Services:
   googleAnalytics: {}
 Params:
   author:
-    500px: username
-    bandcamp: username
-    bitbucket: username
-    codepen: username
-    discord: invite code (https://discord.gg/XXXXXXX)
-    email: youremail@domain.com
-    facebook: username
-    github: username
-    gitlab: username
-    instagram: username
-    itchio: username
-    kaggle: username
-    linkedin: username
-    mastodon: url
-    medium: username
-    name: E. C.
-    paypal: username
-    reddit: username
-    slack: username
-    snapchat: username
-    soundcloud: username
-    spotify: username
-    stackoverflow: users/XXXXXXX/username
-    strava: userid
-    telegram: username
-    twitter: username
-    vk: username
-    website: yourwebsite.com
-    weibo: username
-    xing: username
-    youtube: user/username
+#    500px: username
+#    bandcamp: username
+#    bitbucket: username
+#    codepen: username
+#    discord: invite code (https://discord.gg/XXXXXXX)
+    email: coffeeenthusiast8@gmail.com
+#    facebook: username
+#    github: username
+#    gitlab: username
+#    instagram: username
+#    itchio: username
+#    kaggle: username
+#    linkedin: username
+#    mastodon: url
+#    medium: username
+#    name: E. C.
+#    paypal: username
+#    reddit: username
+#    slack: username
+#    snapchat: username
+#    soundcloud: username
+#    spotify: username
+#    stackoverflow: users/XXXXXXX/username
+#    strava: userid
+#    telegram: username
+#    twitter: username
+#    vk: username
+#    website: yourwebsite.com
+#    weibo: username
+#    xing: username
+#    youtube: user/username
   comments: yes
   commit: no
   dateFormat: January 2, 2006

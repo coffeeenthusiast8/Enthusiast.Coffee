@@ -6,13 +6,13 @@
     <description>Recent content in Pages on Enthusiast Coffee</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>youremail@domain.com (E. C.)</managingEditor>
-    <webMaster>youremail@domain.com (E. C.)</webMaster>
+    <managingEditor>coffeeenthusiast8@gmail.com</managingEditor>
+    <webMaster>coffeeenthusiast8@gmail.com</webMaster>
     <atom:link href="http://localhost:4321/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About This Page</title>
       <link>http://localhost:4321/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (E. C.)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com</author>
       <guid>http://localhost:4321/page/about/</guid>
       <description>The blog was designed to serve as a window to the coffee industry.</description>
     </item>
