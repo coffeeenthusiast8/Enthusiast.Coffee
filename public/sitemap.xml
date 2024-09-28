@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/basics/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/origin/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/origin/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/post/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/terroir/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/terroir/</loc>
-    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/processing/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/roast/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/process/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/roast/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/post/varietal/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/varietal/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/processing/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/process/</loc>
+    <lastmod>2024-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/roast/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/post/roast/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/page/about/</loc>
   </url><url>

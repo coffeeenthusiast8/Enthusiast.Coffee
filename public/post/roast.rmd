@@ -1,6 +1,6 @@
 ---
 title: "Understanding Roast Level"
-date: "`r Sys.Date()`"
+date: "2024-09-07"
 tags:
 - roast
 - basics
@@ -34,9 +34,9 @@ First, simply being aware that roast levels are not universally agreed upon may 
 
 Furthermore, we can generally guess the roast level by tasting notes. Tasting notes often list the flavors one should expect. Bright fruits, jasmine, and floral notes likely indicate a light roast, while dark chocolate, smoky, and nutty notes probably mean a darker roast.
 
-[Sweet Maria's Coffee Library - Using Sight to Determine Degree of Roast](https://library.sweetmarias.com/using-sight-to-determine-degree-of-roast/)
-[Drink Trade - Roast Level Guide](https://www.drinktrade.com/blogs/education/roast-level-guide)
-[James Hoffmann - Coffee Roasting Explained](https://www.youtube.com/watch?v=N6BJVM5tvnw)
-[Lance Hedrick - Which is Best? Roast Color Examined](https://www.youtube.com/watch?v=EAIHH2IlPXU)
-[Adam Ragusea - Light roasts vs. dark roasts | Coffee basics and science explained](https://www.youtube.com/watch?v=cRSS0VBV99c)
+[Sweet Maria's Coffee Library - Using Sight to Determine Degree of Roast](https://library.sweetmarias.com/using-sight-to-determine-degree-of-roast/) <BR>
+[Drink Trade - Roast Level Guide](https://www.drinktrade.com/blogs/education/roast-level-guide) <BR>
+[James Hoffmann - Coffee Roasting Explained](https://www.youtube.com/watch?v=N6BJVM5tvnw) <BR>
+[Lance Hedrick - Which is Best? Roast Color Examined](https://www.youtube.com/watch?v=EAIHH2IlPXU) <BR>
+[Adam Ragusea - Light roasts vs. dark roasts | Coffee basics and science explained](https://www.youtube.com/watch?v=cRSS0VBV99c) <BR>
 [Minute Food - The secret to buying coffee you'll actually like](https://www.youtube.com/watch?v=Fk_IT1VyCiA)

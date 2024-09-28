@@ -6,43 +6,43 @@
     <description>Recent content in Tags on Enthusiast Coffee</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>coffeeenthusiast8@gmail.com</managingEditor>
-    <webMaster>coffeeenthusiast8@gmail.com</webMaster>
-    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <managingEditor>coffeeenthusiast8@gmail.com (E. C.)</managingEditor>
+    <webMaster>coffeeenthusiast8@gmail.com (E. C.)</webMaster>
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basics</title>
       <link>http://localhost:4321/tags/basics/</link>
-      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com</author>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com (E. C.)</author>
       <guid>http://localhost:4321/tags/basics/</guid>
       <description></description>
     </item>
     <item>
-      <title>Terroir</title>
-      <link>http://localhost:4321/tags/terroir/</link>
-      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com</author>
-      <guid>http://localhost:4321/tags/terroir/</guid>
+      <title>Origin</title>
+      <link>http://localhost:4321/tags/origin/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com (E. C.)</author>
+      <guid>http://localhost:4321/tags/origin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Varietal</title>
+      <link>http://localhost:4321/tags/varietal/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com (E. C.)</author>
+      <guid>http://localhost:4321/tags/varietal/</guid>
       <description></description>
     </item>
     <item>
       <title>Processing</title>
       <link>http://localhost:4321/tags/processing/</link>
-      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com</author>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com (E. C.)</author>
       <guid>http://localhost:4321/tags/processing/</guid>
       <description></description>
     </item>
     <item>
       <title>Roast</title>
       <link>http://localhost:4321/tags/roast/</link>
-      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com</author>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com (E. C.)</author>
       <guid>http://localhost:4321/tags/roast/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Varietal</title>
-      <link>http://localhost:4321/tags/varietal/</link>
-      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><author>coffeeenthusiast8@gmail.com</author>
-      <guid>http://localhost:4321/tags/varietal/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 ---
 title: "Understanding Roast Level"
-date: "2024-09-02"
+date: "2024-09-07"
 tags:
 - roast
 - basics
@@ -22,7 +22,7 @@ Heck, roast level is simply noticeable just by sight. Dark roasts are obviously 
 
 Lighter roasts tend to produce coffee that is more acidic with fruity notes and a flowery aroma. Darker roasts tend to produce coffee that is more bitter and smoky.
 
-Ironically, the roast level labeled on coffee beans is often not very meaningful. This is primarily because there is no set standard for roast levels. For example, many would consider Starbucks' "Blonde" roast to be a dark roast rather than a light roast. Additionally, coffee roasters often use confusing terminology, and sometimes the definitions don't match. Is cinnamon roast lighter than "light roast"? It depends on the coffee roaster, it seems. What does "milk-based" roast level even mean? Lastly, some coffee shops simply do not reveal any information about roast level—for example, Sey Coffee. (This generally means they are on the lighter end.)
+Ironically, the roast level labeled on coffee beans is often not very meaningful. This is primarily because there is no set standard for roast levels. For example, many would consider Starbucks' "Blonde" roast to be a dark roast rather than a light roast. Additionally, coffee roasters often use confusing terminology, and sometimes the definitions don't match. Is cinnamon roast lighter than "light roast"? It depends on the coffee roaster, it seems. ([Cinnamon roast described as lighter than 'Light roast'](https://www.kayakopi.com/roasting-kopi-luwak) and [Cinnamon roast described as darker than 'Light roast'](https://beanhoppers.com/blogs/news/the-light-roasted-coffee-trend-yay-or-nay)) What does "milk-based" roast level even mean? Lastly, some coffee shops simply do not reveal any information about roast level—for example, Sey Coffee. (This generally means they are on the lighter end.)
 
 One could argue that coffee roast levels should be determined by color.  However, some coffees are naturally darker than others. Decaffeinated coffee beans, for instance, have an extremely dark color, even though the roaster may describe the coffee as a light roast.
 
@@ -34,10 +34,9 @@ First, simply being aware that roast levels are not universally agreed upon may 
 
 Furthermore, we can generally guess the roast level by tasting notes. Tasting notes often list the flavors one should expect. Bright fruits, jasmine, and floral notes likely indicate a light roast, while dark chocolate, smoky, and nutty notes probably mean a darker roast.
 
-
-https://library.sweetmarias.com/using-sight-to-determine-degree-of-roast/
-https://www.drinktrade.com/blogs/education/roast-level-guide
-https://www.youtube.com/watch?v=N6BJVM5tvnw
-https://www.youtube.com/watch?v=cRSS0VBV99c
-https://www.youtube.com/watch?v=Fk_IT1VyCiA
-https://www.youtube.com/watch?v=EAIHH2IlPXU
+[Sweet Maria's Coffee Library - Using Sight to Determine Degree of Roast](https://library.sweetmarias.com/using-sight-to-determine-degree-of-roast/) <BR>
+[Drink Trade - Roast Level Guide](https://www.drinktrade.com/blogs/education/roast-level-guide) <BR>
+[James Hoffmann - Coffee Roasting Explained](https://www.youtube.com/watch?v=N6BJVM5tvnw) <BR>
+[Lance Hedrick - Which is Best? Roast Color Examined](https://www.youtube.com/watch?v=EAIHH2IlPXU) <BR>
+[Adam Ragusea - Light roasts vs. dark roasts | Coffee basics and science explained](https://www.youtube.com/watch?v=cRSS0VBV99c) <BR>
+[Minute Food - The secret to buying coffee you'll actually like](https://www.youtube.com/watch?v=Fk_IT1VyCiA)

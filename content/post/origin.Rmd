@@ -1,0 +1,13 @@
+---
+title: "Origin Characteristics"
+date: "`r Sys.Date()`"
+tags:
+- origin
+- basics
+---
+
+# Origin Characteristics and Terroir
+
+Coffee from Ethiopia feels distinctly different from coffee from Vietnam, India, Guatemala, or Colombia. Why?
+
+Origin characteristics can be influenced by agricultural practices, climate, preferred varietals, and other factors. For example, Ethiopia is considered the origin of Coffea Arabica and is considered home for countless number of still undiscovered/unidentified varietals. Furthermore, most of the coffee grown in Ethiopia is 'wild coffee' or 'forest coffee.' Unlike than coffee grown in farms in standardized way, Ethiopian coffee tends to taste very complex and floral due to mix of varietals and the way of the coffee was grown.
